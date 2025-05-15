@@ -3,7 +3,7 @@ A Python language code that generates an OTP from numbers 0 to 9 and alphabets A
 Which data structures and algorithms you have used in this?
 It is important to note that OTP is not generated using DSA but rather a module in Python called secrets and a random selection algorithm.
 Resources you have taken help from.
-GeeksForGeeks, 
+GeeksForGeeks, python.org
 Why chose this project?
 To understand the logic and implementation of mathematics in something as simple but important in life as an OTP.
 Have you pushed this project on GitHub?
