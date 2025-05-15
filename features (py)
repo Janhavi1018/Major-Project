@@ -1,0 +1,23 @@
+What you have created?
+A Python language code that generates an OTP from numbers 0 to 9 and alphabets A to Z and from a to z. 
+Which data structures and algorithms you have used in this?
+It is important to note that OTP is not generated using DSA but rather a module in Python called secrets and a random selection algorithm.
+Resources you have taken help from.
+GeeksForGeeks, 
+Why chose this project?
+To understand the logic and implementation of mathematics in something as simple but important in life as an OTP.
+Have you pushed this project on GitHub?
+Yes
+What inventions you are planning to do in this current project to make it more effective?
+I plan to introduce GUI(Graphical User Interface) to ensure the efficiency of an OTP generator.
+Which is the most difficult and challenging part of the project?
+The most important yet difficult part of this project was to under the behind the scene working of an OTP generator. The combination of logic and mathematics was the most difficult part but I got to learn more about cryptography and why it is necessary.
+What error came how you debugged those errors?
+If length is set to 0 or negative, it will return an empty string.
+If get_current_otp() is called before generating an OTP, it will return None.
+Step-by-step process to approach this project.
+Import Required Module
+Create the OTPManager Class
+Initialize Class Variables
+Generate OTP Function : Define Character Sets, Generate Random OTP, Store and Return OTP
+Get Current OTP Function
